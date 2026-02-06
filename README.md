@@ -1,3 +1,2 @@
 # tetris-java-swing
-
-<img width="638" height="868" alt="Sample-Tetris" src="https://github.com/user-attachments/assets/f5643422-9fa8-4dda-9a52-88fedab27f50" />
+<img width="595" height="833" alt="Screenshot 2026-02-07 024702" src="https://github.com/user-attachments/assets/4aa2f077-572b-4bca-b5ef-c871d9476597" />
